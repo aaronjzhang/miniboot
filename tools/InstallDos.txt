@@ -1,0 +1,5 @@
+使用virtualbox安装dos7.1
+1. 创建一个dos虚拟机
+2. 将DOS71_1.IMG设置为flopy
+3. 启动虚拟机
+4. 根据安装提示安装DOS,跳过DOS71_2的安装
